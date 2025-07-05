@@ -1,0 +1,25 @@
+{
+  "name": "playlist-app",
+  "version": "1.0.0",
+  "description": "Test task",
+  "homepage": "https://github.com/MyloslavaM/Playlist-App#readme",
+  "bugs": {
+    "url": "https://github.com/MyloslavaM/Playlist-App/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MyloslavaM/Playlist-App.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.53.2",
+    "@types/node": "^24.0.10",
+    "dotenv": "^17.0.1"
+  }
+}
