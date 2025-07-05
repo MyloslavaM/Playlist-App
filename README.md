@@ -27,7 +27,7 @@ This project is designed to ensure the quality of the Music App using end-to-end
 2. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/MyloslavaM/Playlist-App
+   git clone https://github.com/MyloslavaM/Playlist-App.git
    ```
 
    cd Playlist-App
