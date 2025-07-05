@@ -38,4 +38,6 @@ This project is designed to ensure the quality of the Music App using end-to-end
 
 use .env.example to fill .env security file
 
+npx playwright install
+
 npm run test
